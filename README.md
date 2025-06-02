@@ -1,3 +1,3 @@
 # personalweb-nextjs
 personalweb-nextjs
-day3 part 2
+day3 part 2 / 3
