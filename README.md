@@ -7,3 +7,4 @@ day6 part 1
 day7 part 1 2
 day8 part 1
 day9 part1
+day10 part 1
